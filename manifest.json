@@ -1,0 +1,8 @@
+{
+  "name": "cal.io",
+  "short_name": "cal.io",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07100c",
+  "theme_color": "#31d489"
+}
